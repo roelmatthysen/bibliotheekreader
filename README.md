@@ -1,7 +1,8 @@
 # bibliotheekreader
 A Python script that integrates the goodreads api with the Flemish public library system.
 Example output:
-'''
+
+```
 #####################################################################################
 ###   Tommy Wieringa                 Caesarion                                         
 #####################################################################################
@@ -34,7 +35,8 @@ René Appel                    Goesting in taal : interview met schrijver Tom La
 Cor Gerritsma                 Tom Lanoye                                        Hoofdbibliotheek     Beschikbaar
 Hans Demeyer                  'Een liefdevolle liquidatie' : het autobiografisc Hoofdbibliotheek     Beschikbaar
 Mark Cloostermans             'Sprakeloos', het slot van een lot                Hoofdbibliotheek     Beschikbaar
-'''
+```
+
 ## Bibliotheek API
 The script uses a non-production TEST key for Antwerp province from https://docs.google.com/spreadsheets/d/1IMSaNgcQNpE6KC_tgzyCRkXh6yUBF8rn_lyjrd6bUaM/edit#gid=14.
 The link also has TEST keys for other provinces. Insert this key into the config.py python file.
