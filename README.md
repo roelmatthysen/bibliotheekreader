@@ -1,6 +1,6 @@
 # bibliotheekreader
-A Python script that integrates the goodreads api with the Flemish public library system.
-Example output:
+A Python script that integrates the goodreads api with the Flemish public library system. Books from your to-read list are cross-checked with your local library's collection, and displayed together with (sub)-location and availability information.
+Sample output:
 
 ```
 #####################################################################################
